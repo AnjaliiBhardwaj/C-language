@@ -6,6 +6,7 @@
  4567654
 567898765
 */
+
 #include <stdio.h>
 int main(){
     int rows;
